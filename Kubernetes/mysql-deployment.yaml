@@ -20,7 +20,7 @@ spec:
 
         env:
         - name: MYSQL_ROOT_PASSWORD
-          value: root123
+          value: Ycnvnv@run87
 
         - name: MYSQL_DATABASE
           value: ems
